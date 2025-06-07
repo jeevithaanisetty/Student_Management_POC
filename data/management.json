@@ -2,7 +2,7 @@
     {
         "department": "ECE",
         "no_of_seats": 30,
-        "available_seats": 1,
+        "available_seats": 3,
         "fee": {
             "management": 100000,
             "counselling": 60000

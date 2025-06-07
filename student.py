@@ -81,7 +81,6 @@ def Fee_pay():
     if option not in ["MANAGEMENT", "COUNSELLING"]:
         return "Invalid payment type selected."
     
-
     print("\n**** Choose Branch *****\nECE\nCSE\nEEE\nCIVIL\nMECH\n")
     choice = input().upper()
 
